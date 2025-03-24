@@ -19,4 +19,4 @@ Projeto desenvolvido para aprendizado.
   - Java JDK 8 ou superior instalado.
   - Uma IDE para compilar e executar o código ou o terminal configurado para compilar com javac.
  
- Para testar basta apenas dar um gitClone no projeto e abrir a pasta em qualquer IDE que suporte o java. Navegar até a pasta projeto pessoal e executar o Main.java
+ Para testar basta apenas dar um gitClone no projeto e abrir a pasta em qualquer IDE que suporte o java. Navegar até a pasta GeradorDeSenhaFuncoes e executar o Main.java
